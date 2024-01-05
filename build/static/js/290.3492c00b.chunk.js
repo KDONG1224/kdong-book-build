@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkdong_book_v2=self.webpackChunkkdong_book_v2||[]).push([[290],{2290:(k,o,s)=>{s.r(o),s.d(o,{default:()=>u});var e=s(8472),n=s(6417);const u=()=>(0,n.jsx)(e.l3,{})}}]);
